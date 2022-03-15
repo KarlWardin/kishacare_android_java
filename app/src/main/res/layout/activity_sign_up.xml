@@ -16,6 +16,7 @@
     </ImageView>
 
     <EditText
+        android:id="@+id/input_email"
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:layout_margin="12dp"
@@ -25,6 +26,7 @@
     </EditText>
 
     <EditText
+        android:id="@+id/input_password"
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:layout_margin="12dp"
@@ -33,6 +35,7 @@
 
     </EditText>
     <EditText
+        android:id="@+id/input_cnf_password"
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:layout_margin="12dp"
@@ -42,6 +45,7 @@
     </EditText>
 
     <Button
+        android:id="@+id/signup_btn"
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:layout_margin="12dp"

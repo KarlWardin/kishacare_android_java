@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "42839168102",
+    "firebase_url": "https://kishancare-5a3c1-default-rtdb.firebaseio.com",
+    "project_id": "kishancare-5a3c1",
+    "storage_bucket": "kishancare-5a3c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42839168102:android:316954644a6e79470349a7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42839168102-gqmmdpbq0bmlatjhgvse5qjl1b231fq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZKfCU8tScQdvy4nubBwDCmvsjfA7s9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42839168102-gqmmdpbq0bmlatjhgvse5qjl1b231fq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
